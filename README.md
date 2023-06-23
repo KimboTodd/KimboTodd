@@ -5,6 +5,8 @@
 </div>
 
 <!--
+Thanks Pragmatic Pineapple for this fun idea on my github profile: https://pragmaticpineapple.com/adding-custom-html-and-css-to-github-readme/
+
 **KimboTodd/KimboTodd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
